@@ -1,7 +1,8 @@
 ## What is this?
 
-A default template for a new CLI project, written in Python.  Deals with all
-the boilerplate involved in the setuptools setup, etc.
+A default template for a new CLI project, written in Python, to be used
+with the [cookiecutter](https://cookiecutter.readthedocs.io) utility. 
+Deals with all the boilerplate involved in the setuptools setup, etc.
 
 
 ## How do I use this?
