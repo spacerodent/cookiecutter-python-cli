@@ -14,7 +14,7 @@ Here's my preferred path to bliss:
 2. Now install Cookiecutter:
    `$ pipsi install cookiecutter`.
 3. Now use Cookiecutter to create your brand new project:
-   `$ cd ~/Desktop && cookiecutter https://github.com/nvie/cookiecutter-python-cli.git`
+   `$ cookiecutter https://github.com/nvie/cookiecutter-python-cli.git`
 
 
 ## How to answer these questions?
