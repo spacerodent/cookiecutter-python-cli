@@ -2,7 +2,7 @@
 
 import argparse
 
-from {{ cookiecutter.repo_name | replace('-','') }} import {{ cookiecutter.script_name }}
+from {{ cookiecutter.repo_name }} import {{ cookiecutter.repo_name | replace('-', '') }}
 
 
 def main():

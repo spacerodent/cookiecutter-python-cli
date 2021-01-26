@@ -13,7 +13,7 @@ setup(
     install_requires=dependencies,
     entry_points={
         'console_scripts': [
-            '{{ cookiecutter.script_name }} = {{ cookiecutter.package_name }}:main',
+            '{{ cookiecutter.script_name }} = {{ cookiecutter.script_name | replace('-', '_') }}:main',
         ],
     },
 )
