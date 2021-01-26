@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='{{ cookiecutter.pypi_name }}',
+    name='{{ cookiecutter.repo_name }}',
     version='{{ cookiecutter.version }}',
     author='{{ cookiecutter.full_name }}',
     author_email='{{ cookiecutter.email }}',
