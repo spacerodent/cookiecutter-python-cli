@@ -1,9 +1,6 @@
 *.pyc
 *.egg-info
-
-/dump.rdb
-/.direnv
-/.envrc
-/.tox
-/dist
-/build
+__pycache__
+dist
+build
+.idea
